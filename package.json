@@ -1,5 +1,5 @@
 {
-  "name": "crypto",
+  "name": "@rf/crypto",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
@@ -20,6 +20,5 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
   "packageManager": "yarn@1.22.19"
 }
