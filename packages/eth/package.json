@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "typescript": "latest",
-    "viem": "^0.1.10"
+    "viem": "^0.1.13"
   },
   "license": "UNLICENSED"
 }
